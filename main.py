@@ -1,5 +1,15 @@
-data = {"First Name": "John", "Last Name": "Barbour", "Age": 32}
 
-for item in data.keys():
-    print("{0}: {1}".format(item, data[item]))
+
+
+
+
+
+set simulation time horizon
+load all parameter data
+build distribution arcs
+build participant nodes
+randomize participant node characteristics
+map nodes to distribution arcs
+
+
 
