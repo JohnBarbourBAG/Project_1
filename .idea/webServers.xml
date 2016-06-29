@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="866089e8-f547-41c0-84c9-a1aff744d9b4" name="AWS_EC2_Project_1" url="http://ec2-52-91-14-82.compute-1.amazonaws.com">
+        <fileTransfer host="ec2-52-91-14-82.compute-1.amazonaws.com" port="22" privateKey="C:\Users\jbarb\Documents\BAGroup\powerhouse.pem" accessType="SFTP" username="ubuntu" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
