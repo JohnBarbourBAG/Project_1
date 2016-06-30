@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="AWS_EC2_Project_1">
+  <component name="PublishConfigData" serverName="AWS_EC2_Project_1" uploadOnCheckin="866089e8-f547-41c0-84c9-a1aff744d9b4">
     <serverData>
       <paths name="AWS_EC2_Project_1">
         <serverdata>
@@ -17,5 +17,6 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="AWS_EC2_Project_1" />
   </component>
 </project>
