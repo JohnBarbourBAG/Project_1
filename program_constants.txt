@@ -1,0 +1,2 @@
+next_launch = "[10/oct/2009:13:55:36 -0700]"
+some_constant = 1
