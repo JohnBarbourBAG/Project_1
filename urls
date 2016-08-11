@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urls>
+    <craigslist_urls>
+        <url_base>
+            <url name="search">
+                <protocol>https://</protocol>
+                <path>.craigslist.org/search/</path>
+            </url>
+        </url_base>
+        <state name="Georgia">
+            <city name="Atlanta">atlanta</city>
+            <city name="Albany">albanyga</city>
+            <city name="Athens">athensga</city>
+            <city name="Asheville">asheville</city>
+            <city name="Augusta">augusta</city>
+            <city name="Columbus">columbusga</city>
+            <city name="Macon">macon</city>
+            <city name="Savannah">savannah</city>
+            <city name="Statesboro">statesboro</city>
+            <city name="Valdosta">valdosta</city>
+        </state>
+        <state name="South Carolina">
+            <city name="Hilton Head">hiltonhead</city>
+            <city name="Charleston">charleston</city>
+            <city name="Columbia">columbia</city>
+        </state>
+        <state name="Alabama">
+            <city name="Birmingham">bham</city>
+            <city name="Auburn">auburn</city>
+        </state>
+        <state name="Tennessee">
+            <city name="Chattanooga">chattanooga</city>
+        </state>
+    </craigslist_urls>
+</urls>
